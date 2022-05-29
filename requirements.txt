@@ -6,3 +6,4 @@ numpy==1.18.1
 yfinance==0.1.54
 lxml==4.5.1
 sklearn
+os
